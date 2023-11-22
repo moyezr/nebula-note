@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1700674273212,
+      "tag": "0000_charming_blur",
+      "breakpoints": true
+    }
+  ]
+}
