@@ -15,6 +15,13 @@
       "when": 1700674641070,
       "tag": "0001_brief_drax",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1700726628596,
+      "tag": "0002_curly_odin",
+      "breakpoints": true
     }
   ]
 }
